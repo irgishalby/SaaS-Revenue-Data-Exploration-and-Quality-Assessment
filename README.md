@@ -2,7 +2,7 @@
 
 The data is quite **complete**, with no missing values, and it is also very **consistent** across the tables. The `customer_id` values **match correctly** between the `revenue` and `subscriptions` tables. 
 
-However, I noticed something unusual in both the Monthly Recurring Revenue (MRR)and the monthly customer churn metrics.
+However, I noticed something unusual in both the Monthly Recurring Revenue (MRR) and the monthly customer churn metrics.
 
 For the **MRR**, it starts low, rises quickly, and stays fairly stable for several months. But toward the end of the year, it begins to **drop sharply**. As for **customer churn**, the early months look normal with a low churn rate, but by the final month, it **suddenly spikes dramatically**, to the point where **everyone churns**.
 
